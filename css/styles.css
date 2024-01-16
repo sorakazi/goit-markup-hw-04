@@ -138,7 +138,7 @@ li > .link:focus {
   background-repeat: no-repeat, no-repeat;
   background-position: center, center;
   background-size: cover;
-  max-width: 1440px, 1440px;
+  max-width:  1440px;
 }
 .main-header {
   font-size: 56px;
