@@ -129,6 +129,7 @@ li > .link:focus {
 .hero-section {
   background-color: var(--navy-blue);
   padding: 188px 0;
+  max-width: 1440px;
   /* HW4 */
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
@@ -138,7 +139,7 @@ li > .link:focus {
   background-repeat: no-repeat, no-repeat;
   background-position: center, center;
   background-size: cover;
-  max-width:  1440px 0;
+  
 }
 .main-header {
   font-size: 56px;
